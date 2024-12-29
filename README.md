@@ -1,4 +1,4 @@
-# awesome-metaframeworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Encyclopedia of Metaframeworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome resources related to software development with metaframeworks.
 
