@@ -32,6 +32,18 @@ A curated list of awesome resources related to software development with metafra
 * [Astro](https://astro.build). The all-in-one web framework for content-driven websites with multi-framework components approach.
 
 ## Metaframework-like tools
+* [Vike](https://vike.dev). Flexible Vite-based web-app scaffolder framework.
+* [Bâti](https://batijs.dev). Vike-driven batteries-including scaffolder tool.
+* [Brisa](https://brisa.build). Bun-based full-stack web framework with progressive enhancement and web components philosophy.
+* [Gatsby](https://www.gatsbyjs.com). React-based full-stack web framework in love with GraphQL.
+* [11ty](https://www.11ty.dev). JAMstack swiss-army knife that had overgrown static websites.
+* [Docusaurus](https://docusaurus.io). Documentation-websites focused web framework with React under the hood.
+* [VitePress](https://vitepress.dev). Simple but powerful static site generator based on Vue.
+* [Inferno](https://www.infernojs.org). React-compatible client-side and server-side rendering library with corresponding toolset included.
+* [Heretic](https://hereticjs.org). Marco-based framework combining both SSR and SPA approaches.
+* [Meteor](https://www.meteor.com). Frontend-agnostic opinionated full-stack framework.
+* [Observable Framework](https://observablehq.com). Powerful static-site generator for data apps.
+* [Waku](https://waku.gg). Minimalist RSC-focused React framework.
 
 ## Meta-metaframeworks
 
