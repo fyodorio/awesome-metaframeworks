@@ -13,8 +13,10 @@ A curated list of awesome resources related to software development with metafra
 * [Comparisons and benchmarks](#comparisons-and-benchmarks)
 * [Metaframework PROs](#metaframework-pros)
 * [Metaframework CONs](#metaframework-cons)
+* [Construction site](#construction-site)
 * [OSS examples built with metaframeworks](#oss-examples-built-with-metaframeworks)
 * [Newsletters](#newsletters)
+* [Podcasts](#podcasts)
 
 ## Metaframeworks
 * [Next.js](https://nextjs.org). React-based framework for building full-stack web applications.
@@ -84,7 +86,7 @@ A curated list of awesome resources related to software development with metafra
 * [Battle of metaframeworks](https://github.com/leanhanc/battle-of-the-meta-frameworks). The same app built with several metaframeworks for resulting performance comparison.
 
 ## Metaframework PROs
-* [[YouTube] State of Meta Frameworks (2023)](https://www.youtube.com/live/u9ca8jwTRTk). Insightfull round table with metaframeworks ambassadors.
+* [[Video] State of Meta Frameworks (2023)](https://www.youtube.com/live/u9ca8jwTRTk). Insightfull round table with metaframeworks ambassadors.
 * [Sending My Respect to Next.js (and Vercel)](https://frontendmasters.com/blog/respect-to-next-js-and-vercel/). A praise from Marc Grabanski, big vanilla-JS proponent.
 * [IndieHackerStacks](https://indiehackerstacks.com). See what indie hackers use to build their products. Metaframeworks all around.
 
@@ -93,7 +95,14 @@ A curated list of awesome resources related to software development with metafra
 * [Digging the actual Next.js source code: A nightmare](https://blog.activeno.de/nextjs-sourcecode-nightmare). Clickbaity title with lots of food for thoughts inside.
 * [The Rise (and Fall) and Rise Again of HTML Frameworks](https://www.spicyweb.dev/html-modules-history/). The good people Jared White has opinions and insights to think about. Not necessarily a "con" but a good perspective in general.
 
+## Construction site
+* [[Video] SolidJS: Decomposing the Metaframework (2023)](https://www.youtube.com/watch?v=XMybh3gCmQ0). Ryan Carniato's talk at ViteConf dedicated to some deep metaframework mechanics.
+* [[Video] Build your own metaframework with Vinxi (2024)](https://www.learnwithjason.dev/build-your-own-metaframework-with-vinxi/). Vinxi inventor Dev Agrawal joins Jason Lengstorf to discuss and show how to build metaframeworks.
+
 ## OSS examples built with metaframeworks
+* [Real-world open-source projects built with Next.js 14 and App Router](https://aryabov.com/blog/real-world-open-source-projects-built-with-nextjs-14-and-app-router). A good way to take a deeper look at how them clever guys do that.
 
 ## Newsletters
+
+## Podcasts
 
