@@ -58,10 +58,25 @@ A curated list of awesome resources related to software development with metafra
 * [UnJS](https://unjs.io). Whole lotta things to build modern web applications.
 
 ## AI tools
+* [Bolt](https://bolt.new). StackBlitz-powered AI platform for prompt-based building, running, editing, and deploying full-stack web apps.
+* [Lovable](https://lovable.dev/). Your superhuman full stack AI engineer.
+* [v0](https://v0.dev). Next.js-, Tailwind-, and shadcn/ui-based AI app and component builder.
+* [IDX](https://idx.dev). Googles full-stack AI builder not limited to web.
 
 ## Auxiliary tools
+* [StackBlitz](https://stackblitz.com). A platform for building full-stack applications online.
+* [Sonda](https://sonda.dev). Universal bundle visualizer and analyzer for JavaScript applications.
 
 ## Metaframework heroes
+* [Ryan Carniato](https://github.com/ryansolid). The SolidStart guy.
+* [Brandon Roberts](https://github.com/brandonroberts). The Analog guy.
+* [Rich Harris](https://github.com/Rich-Harris). The SvelteKit guy.
+* [Ben Holmes](https://github.com/bholmesdev). The Astro guy.
+* [Ryan Florence](https://github.com/ryanflorence). The Remix guy.
+* [Lee Robinson](https://github.com/leerob). The Next.js guy.
+* [Tanner Linsley](https://github.com/tannerlinsley). The TanStack Start guy.
+* [Tom Preston-Werner](https://github.com/mojombo). The RedwoodJS guy.
+* [Daniel Roe](https://github.com/danielroe). The Nuxt guy.
 
 ## Comparisons and benchmarks
 
