@@ -79,6 +79,9 @@ A curated list of awesome resources related to software development with metafra
 * [Daniel Roe](https://github.com/danielroe). The Nuxt guy.
 
 ## Comparisons and benchmarks
+* [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark). A well-maintained comparison of the performance of a few popular JavaScript frameworks.
+* [State of JS 2024. Metaframeworks](https://2024.stateofjs.com/en-US/libraries/meta-frameworks/). Popular yearly survey results for metaframeworks ecosystem.
+* [Battle of metaframeworks](https://github.com/leanhanc/battle-of-the-meta-frameworks). The same app built with several metaframeworks for resulting performance comparison.
 
 ## Metaframework PROs
 
