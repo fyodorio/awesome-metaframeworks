@@ -44,6 +44,7 @@ A curated list of awesome resources related to software development with metafra
 * [Meteor](https://www.meteor.com). Frontend-agnostic opinionated full-stack framework.
 * [Observable Framework](https://observablehq.com). Powerful static-site generator for data apps.
 * [Waku](https://waku.gg). Minimalist RSC-focused React framework.
+* [Refine](https://refine.dev). Opinionated React framework focused on building backoffice applications.
 
 ## Meta-metaframeworks
 
