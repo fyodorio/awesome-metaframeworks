@@ -103,6 +103,12 @@ A curated list of awesome resources related to software development with metafra
 * [Real-world open-source projects built with Next.js 14 and App Router](https://aryabov.com/blog/real-world-open-source-projects-built-with-nextjs-14-and-app-router). A good way to take a deeper look at how them clever guys do that.
 
 ## Newsletters
+* [Metaframeworks Weekly](https://metaframe.works). A dedicated weekly newsletter with metaframeworks ecosystem news and insights.
+* [Bytes](https://bytes.dev). A good ol' weekly JavaScript ecosystem news source with lots of metaframeworks news included.
+* [weeklyfoo](https://weeklyfoo.com). More generic weekly webdev news with frequent mentions of articles and tools related to metaframeworks.
 
 ## Podcasts
-
+* [<ConTejas /> Code](https://tej.as/podcast). The metaframeworks people are often guests here. For patient listeners.
+* [PodRocket](https://podrocket.logrocket.com). The metaframeworks people are often guests here. For listeners with short attention spans.
+* [JS Party](https://changelog.com/jsparty). A weekly celebration of JavaScript and the web — and the metaframeworks sometimes.
+* [Syntax](https://syntax.fm). Not exactly a metaframeworks story but lots of useful ecosystem news.
