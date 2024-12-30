@@ -51,6 +51,11 @@ A curated list of awesome resources related to software development with metafra
 * [T3](https://t3.gg/). The best way to start a full-stack, typesafe Next.js app if you dare to.
 
 ## Building parts
+* [Vite](https://vite.dev). The build tool for the Web and the culprit of the metaframework revolution and lots of other crazy things.
+* [Nitro](https://nitro.build). The next generation server toolkit powering quite a lot of the aforementioned tools.
+* [Vinxi](https://vinxi.vercel.app). The full-stack SDK for building JavaScript applications and frameworks.
+* [tRPC](https://trpc.io). TypeScript inference to boost productivity for your full-stack applications.
+* [UnJS](https://unjs.io). Whole lotta things to build modern web applications.
 
 ## AI tools
 
