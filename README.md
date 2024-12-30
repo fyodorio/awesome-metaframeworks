@@ -47,6 +47,8 @@ A curated list of awesome resources related to software development with metafra
 * [Refine](https://refine.dev). Opinionated React framework focused on building backoffice applications.
 
 ## Meta-metaframeworks
+* [Blitz](https://blitzjs.com/). Battle-tested libraries and conventions for shipping and scaling world wide Next.js-based applications.
+* [T3](https://t3.gg/). The best way to start a full-stack, typesafe Next.js app if you dare to.
 
 ## Building parts
 
