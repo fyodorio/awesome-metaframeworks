@@ -108,7 +108,7 @@ A curated list of awesome resources related to software development with metafra
 * [weeklyfoo](https://weeklyfoo.com). More generic weekly webdev news with frequent mentions of articles and tools related to metaframeworks.
 
 ## Podcasts
-* [<ConTejas /> Code](https://tej.as/podcast). The metaframeworks people are often guests here. For patient listeners.
+* [ConTejas Code](https://tej.as/podcast). The metaframeworks people are often guests here. For patient listeners.
 * [PodRocket](https://podrocket.logrocket.com). The metaframeworks people are often guests here. For listeners with short attention spans.
 * [JS Party](https://changelog.com/jsparty). A weekly celebration of JavaScript and the web — and the metaframeworks sometimes.
 * [Syntax](https://syntax.fm). Not exactly a metaframeworks story but lots of useful ecosystem news.
