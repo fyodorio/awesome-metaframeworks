@@ -59,6 +59,7 @@ A curated list of awesome resources related to software development with metafra
 * [tRPC](https://trpc.io). TypeScript inference to boost productivity for your full-stack applications.
 * [Zod](https://zod.dev). Popular library for TypeScript-first schema validation with static type inference.
 * [UnJS](https://unjs.io). Whole lotta things to build modern web applications.
+* [Tailwind CSS](https://tailwindcss.com). A utility-first CSS framework loved by full-stack developers all over the world.
 
 ## AI tools
 * [Bolt](https://bolt.new). StackBlitz-powered AI platform for prompt-based building, running, editing, and deploying full-stack web apps.
