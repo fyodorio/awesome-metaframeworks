@@ -60,6 +60,7 @@ A curated list of awesome resources related to software development with metafra
 * [Zod](https://zod.dev). Popular library for TypeScript-first schema validation with static type inference.
 * [UnJS](https://unjs.io). Whole lotta things to build modern web applications.
 * [Tailwind CSS](https://tailwindcss.com). A utility-first CSS framework loved by full-stack developers all over the world.
+* [Supabase](https://supabase.com). Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings for your full-stack apps.
 
 ## AI tools
 * [Bolt](https://bolt.new). StackBlitz-powered AI platform for prompt-based building, running, editing, and deploying full-stack web apps.
