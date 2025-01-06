@@ -32,6 +32,7 @@ A curated list of awesome resources related to software development with metafra
 * [Fresh](https://fresh.deno.dev). Deno-based full-stack web framework using Preact for server-rendered components.
 * [Enhance](https://enhance.dev). HTML-first full-stack web framework focused on web components and progressive enhancement.
 * [Astro](https://astro.build). The all-in-one web framework for content-driven websites with multi-framework components approach.
+* [Hono](https://hono.dev). Full-stack framework starting from the server-side with static site generation, client components, and file-based routing.
 
 ## Metaframework-like tools
 * [Vike](https://vike.dev). Flexible Vite-based web-app scaffolder framework.
@@ -61,6 +62,7 @@ A curated list of awesome resources related to software development with metafra
 * [UnJS](https://unjs.io). Whole lotta things to build modern web applications.
 * [Tailwind CSS](https://tailwindcss.com). A utility-first CSS framework loved by full-stack developers all over the world.
 * [Supabase](https://supabase.com). Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings for your full-stack apps.
+* [JSX](https://facebook.github.io/jsx/). XML-like syntax extension to ECMAScript used by multiple frameworks and metaframeworks.
 
 ## AI tools
 * [Bolt](https://bolt.new). StackBlitz-powered AI platform for prompt-based building, running, editing, and deploying full-stack web apps.
