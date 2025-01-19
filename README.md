@@ -99,6 +99,7 @@ A curated list of awesome resources related to software development with metafra
 * [Web Development Is Getting Too Complex, And It May Be Our Fault](https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/). The title says it all.
 * [Digging the actual Next.js source code: A nightmare](https://blog.activeno.de/nextjs-sourcecode-nightmare). Clickbaity title with lots of food for thoughts inside.
 * [The Rise (and Fall) and Rise Again of HTML Frameworks](https://www.spicyweb.dev/html-modules-history/). The good people Jared White has opinions and insights to think about. Not necessarily a "con" but a good perspective in general.
+* [Over-Architecting in Web Design](https://dev.to/manufosela/on-architecture-in-web-design-367n). Seasoned web developer Mánu Fosela on important issues with metaframeworks and business incentives behind them.
 
 ## Construction site
 * [[Video] SolidJS: Decomposing the Metaframework (2023)](https://www.youtube.com/watch?v=XMybh3gCmQ0). Ryan Carniato's talk at ViteConf dedicated to some deep metaframework mechanics.
@@ -106,6 +107,7 @@ A curated list of awesome resources related to software development with metafra
 
 ## OSS examples built with metaframeworks
 * [Real-world open-source projects built with Next.js 14 and App Router](https://aryabov.com/blog/real-world-open-source-projects-built-with-nextjs-14-and-app-router). A good way to take a deeper look at how them clever guys do that.
+* [Open TLC](https://github.com/KlinsBt/open-translation-client). An open source SvelteKit-based CAT-Tool for everyone.
 
 ## Newsletters
 * [Metaframeworks Weekly](https://metaframe.works). A dedicated weekly newsletter with metaframeworks ecosystem news and insights.
@@ -117,3 +119,4 @@ A curated list of awesome resources related to software development with metafra
 * [PodRocket](https://podrocket.logrocket.com). The metaframeworks people are often guests here. For listeners with short attention spans.
 * [JS Party](https://changelog.com/jsparty). A weekly celebration of JavaScript and the web — and the metaframeworks sometimes.
 * [Syntax](https://syntax.fm). Not exactly a metaframeworks story but lots of useful ecosystem news.
+* [HTML All The Things](https://www.htmlallthethings.com/podcast). Deep discussions on all the things web dev.
