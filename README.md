@@ -100,6 +100,7 @@ A curated list of awesome resources related to software development with metafra
 * [Digging the actual Next.js source code: A nightmare](https://blog.activeno.de/nextjs-sourcecode-nightmare). Clickbaity title with lots of food for thoughts inside.
 * [The Rise (and Fall) and Rise Again of HTML Frameworks](https://www.spicyweb.dev/html-modules-history/). The good people Jared White has opinions and insights to think about. Not necessarily a "con" but a good perspective in general.
 * [Over-Architecting in Web Design](https://dev.to/manufosela/on-architecture-in-web-design-367n). Seasoned web developer Mánu Fosela on important issues with metaframeworks and business incentives behind them.
+* [You don't need Next.js](https://www.comfydeploy.com/blog/you-dont-need-nextjs). The good case study on migration away from Next.js to less fancy but more performant approach.
 
 ## Construction site
 * [[Video] SolidJS: Decomposing the Metaframework (2023)](https://www.youtube.com/watch?v=XMybh3gCmQ0). Ryan Carniato's talk at ViteConf dedicated to some deep metaframework mechanics.
