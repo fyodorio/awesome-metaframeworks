@@ -52,6 +52,7 @@ A curated list of awesome resources related to software development with metafra
 ## Meta-metaframeworks
 * [Blitz](https://blitzjs.com/). Battle-tested libraries and conventions for shipping and scaling world wide Next.js-based applications.
 * [T3](https://t3.gg/). The best way to start a full-stack, typesafe Next.js app if you dare to.
+* [SST](https://sst.dev). Config-driven full-stack application builder using more than 150 tools as building blocks.
 
 ## Building parts
 * [Vite](https://vite.dev). The build tool for the Web and the culprit of the metaframework revolution and lots of other crazy things.
@@ -73,6 +74,7 @@ A curated list of awesome resources related to software development with metafra
 ## Auxiliary tools
 * [StackBlitz](https://stackblitz.com). A platform for building full-stack applications online.
 * [Sonda](https://sonda.dev). Universal bundle visualizer and analyzer for JavaScript applications.
+* [Storybook](https://storybook.js.org). Indispensable tool for building and testing components for web application UIs.
 
 ## Metaframework heroes
 * [Ryan Carniato](https://github.com/ryansolid). The SolidStart guy.
