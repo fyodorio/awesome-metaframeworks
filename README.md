@@ -110,7 +110,8 @@ A curated list of awesome resources related to software development with metafra
 
 ## OSS examples built with metaframeworks
 * [Real-world open-source projects built with Next.js 14 and App Router](https://aryabov.com/blog/real-world-open-source-projects-built-with-nextjs-14-and-app-router). A good way to take a deeper look at how them clever guys do that.
-* [Open TLC](https://github.com/KlinsBt/open-translation-client). An open source SvelteKit-based CAT-Tool for everyone.
+* [Open TLC](https://github.com/KlinsBt/open-translation-client). SvelteKit-based CAT-Tool for everyone.
+* [4m00se](https://github.com/stellar-dapps/4m00se-dapp). SevelteKit-based form builder dapp on Rust-powered infrastructure with embeddable widget generation.
 
 ## Newsletters
 * [Metaframeworks Weekly](https://metaframe.works). A dedicated weekly newsletter with metaframeworks ecosystem news and insights.
