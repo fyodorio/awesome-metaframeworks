@@ -48,6 +48,7 @@ A curated list of awesome resources related to software development with metafra
 * [Observable Framework](https://observablehq.com). Powerful static-site generator for data apps.
 * [Waku](https://waku.gg). Minimalist RSC-focused React framework.
 * [Refine](https://refine.dev). Opinionated React framework focused on building backoffice applications.
+* [Ruck](https://ruck.tech). Buildless React web application framework for Deno.
 
 ## Meta-metaframeworks
 * [Blitz](https://blitzjs.com/). Battle-tested libraries and conventions for shipping and scaling world wide Next.js-based applications.
@@ -91,7 +92,6 @@ A curated list of awesome resources related to software development with metafra
 * [Comparison of metaframeworks](https://metaframe.works/comparison/). Opinionated but insightful comparison table from Metaframeworks Weekly.
 * [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark). A well-maintained comparison of the performance of a few popular JavaScript frameworks.
 * [State of JS 2024. Metaframeworks](https://2024.stateofjs.com/en-US/libraries/meta-frameworks/). Popular yearly survey results for metaframeworks ecosystem.
-* [Battle of metaframeworks](https://github.com/leanhanc/battle-of-the-meta-frameworks). The same app built with several metaframeworks for resulting performance comparison.
 * [Frontend frameworks, a 2024 year in review](https://www.netlify.com/blog/2024-frameworks-year-in-review/). A good few words about the metaframeworks ecosystem from Netlify.
 
 ## Metaframework PROs
