@@ -17,6 +17,7 @@ A curated list of awesome resources related to software development with metafra
 * [OSS examples built with metaframeworks](#oss-examples-built-with-metaframeworks)
 * [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
+* [Live streams](#live-streams)
 
 ## Metaframeworks
 * [Next.js](https://nextjs.org). React-based framework for building full-stack web applications.
@@ -127,3 +128,8 @@ A curated list of awesome resources related to software development with metafra
 * [JS Party](https://changelog.com/jsparty). A weekly celebration of JavaScript and the web — and the metaframeworks sometimes.
 * [Syntax](https://syntax.fm). Not exactly a metaframeworks story but lots of useful ecosystem news.
 * [HTML All The Things](https://www.htmlallthethings.com/podcast). Deep discussions on all the things web dev.
+
+## Live streams
+* [2 Full 2 Stack](https://www.youtube.com/playlist?list=PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk). Great live coding content, by Nick Taylor, metaframeworks and their authors invited.
+* [CodeTV](https://www.youtube.com/@codetv-dev/streams). AKA "Learn With Jason", by Jason Lengstorf, featuring metaframework topics and people sometimes.
+* [Ryan Carniato](https://www.youtube.com/@ryansolid/streams). Long thoughtful streams from the SolidStart author featuring interesting guests and controversial topic from time to time.
