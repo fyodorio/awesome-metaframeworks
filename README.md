@@ -111,6 +111,7 @@ A curated list of awesome resources related to software development with metafra
 ## Construction site
 * [[Video] SolidJS: Decomposing the Metaframework (2023)](https://www.youtube.com/watch?v=XMybh3gCmQ0). Ryan Carniato's talk at ViteConf dedicated to some deep metaframework mechanics.
 * [[Video] Build your own metaframework with Vinxi (2024)](https://www.learnwithjason.dev/build-your-own-metaframework-with-vinxi/). Vinxi inventor Dev Agrawal joins Jason Lengstorf to discuss and show how to build metaframeworks.
+* [How React Router works under the hood](https://tigerabrodi.blog/how-react-router-works-under-the-hood). Insightful research of React Router internals related to its metaframework alter ego.
 
 ## OSS examples built with metaframeworks
 * [Real-world open-source projects built with Next.js 14 and App Router](https://aryabov.com/blog/real-world-open-source-projects-built-with-nextjs-14-and-app-router). A good way to take a deeper look at how them clever guys do that.
