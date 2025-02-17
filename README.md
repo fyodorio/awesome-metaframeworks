@@ -56,6 +56,7 @@ A curated list of awesome resources related to software development with metafra
 * [T3](https://t3.gg/). The best way to start a full-stack, typesafe Next.js app if you dare to.
 * [SST](https://sst.dev). Config-driven full-stack application builder using more than 150 tools as building blocks.
 * [Payload](https://payloadcms.com). Open-source Next.js backend.
+* [JStack](https://jstack.app). The stack for building fast, lightweight and end-to-end typesafe Next.js apps.
 
 ## Building parts
 * [Vite](https://vite.dev). The build tool for the Web and the culprit of the metaframework revolution and lots of other crazy things.
