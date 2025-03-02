@@ -13,6 +13,7 @@ A curated list of awesome resources related to software development with metafra
 * [Comparisons and benchmarks](#comparisons-and-benchmarks)
 * [Metaframework PROs](#metaframework-pros)
 * [Metaframework CONs](#metaframework-cons)
+* [Security for metaframeworks](#security-for-metaframeworks)
 * [Construction site](#construction-site)
 * [OSS examples built with metaframeworks](#oss-examples-built-with-metaframeworks)
 * [Newsletters](#newsletters)
@@ -73,12 +74,15 @@ A curated list of awesome resources related to software development with metafra
 * [Bolt](https://bolt.new). StackBlitz-powered AI platform for prompt-based building, running, editing, and deploying full-stack web apps.
 * [Lovable](https://lovable.dev/). Your superhuman full stack AI engineer.
 * [v0](https://v0.dev). Next.js-, Tailwind-, and shadcn/ui-based AI app and component builder.
+* [svelte0](https://svelte0.dev). v0 but with Svelte instead of React.
 * [IDX](https://idx.dev). Googles full-stack AI builder not limited to web.
 
 ## Auxiliary tools
 * [StackBlitz](https://stackblitz.com). A platform for building full-stack applications online.
 * [Sonda](https://sonda.dev). Universal bundle visualizer and analyzer for JavaScript applications.
+* [Knip](https://knip.dev). Declutterer for JS and TS projects.
 * [Storybook](https://storybook.js.org). Indispensable tool for building and testing components for web application UIs.
+* [Oxc](https://oxc.rs). The family of extremely performant Rust-based JS tools.
 
 ## Metaframework heroes
 * [Ryan Carniato](https://github.com/ryansolid). The SolidStart guy.
@@ -108,6 +112,10 @@ A curated list of awesome resources related to software development with metafra
 * [The Rise (and Fall) and Rise Again of HTML Frameworks](https://www.spicyweb.dev/html-modules-history/). The good people Jared White has opinions and insights to think about. Not necessarily a "con" but a good perspective in general.
 * [Over-Architecting in Web Design](https://dev.to/manufosela/on-architecture-in-web-design-367n). Seasoned web developer Mánu Fosela on important issues with metaframeworks and business incentives behind them.
 * [You don't need Next.js](https://www.comfydeploy.com/blog/you-dont-need-nextjs). The good case study on migration away from Next.js to less fancy but more performant approach.
+
+## Security for metaframeworks
+* [Arcjet](https://arcjet.com). SaC (security as code) toolset for modern [meta]frameworks.
+* [mit10s](https://mit10s.com). Security platform for metaframework-based websites and web applications.
 
 ## Construction site
 * [[Video] SolidJS: Decomposing the Metaframework (2023)](https://www.youtube.com/watch?v=XMybh3gCmQ0). Ryan Carniato's talk at ViteConf dedicated to some deep metaframework mechanics.
