@@ -83,6 +83,7 @@ A curated list of awesome resources related to software development with metafra
 * [Knip](https://knip.dev). Declutterer for JS and TS projects.
 * [Storybook](https://storybook.js.org). Indispensable tool for building and testing components for web application UIs.
 * [Oxc](https://oxc.rs). The family of extremely performant Rust-based JS tools.
+* [ESLint](https://eslint.org). Almighty static analysis for web applications.
 
 ## Metaframework heroes
 * [Ryan Carniato](https://github.com/ryansolid). The SolidStart guy.
