@@ -106,6 +106,7 @@ A curated list of awesome resources related to software development with metafra
 * [[Video] State of Meta Frameworks (2023)](https://www.youtube.com/live/u9ca8jwTRTk). Insightfull round table with metaframeworks ambassadors.
 * [Sending My Respect to Next.js (and Vercel)](https://frontendmasters.com/blog/respect-to-next-js-and-vercel/). A praise from Marc Grabanski, big vanilla-JS proponent.
 * [IndieHackerStacks](https://indiehackerstacks.com). See what indie hackers use to build their products. Metaframeworks all around.
+* [Understanding JavaScript Meta-Frameworks: Redefining Modern Web Development](https://configr.medium.com/understanding-javascript-meta-frameworks-redefining-modern-web-development-c8f6b10f0c67). Thoughtful overview of the reasoning behind metaframeworks, future trends, and benefits.
 
 ## Metaframework CONs
 * [Web Development Is Getting Too Complex, And It May Be Our Fault](https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/). The title says it all.
