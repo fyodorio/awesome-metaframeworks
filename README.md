@@ -58,6 +58,7 @@ A curated list of awesome resources related to software development with metafra
 * [SST](https://sst.dev). Config-driven full-stack application builder using more than 150 tools as building blocks.
 * [Payload](https://payloadcms.com). Open-source Next.js backend.
 * [JStack](https://jstack.app). The stack for building fast, lightweight and end-to-end typesafe Next.js apps.
+* [Accella](https://accella.dev). Astro-based MVC metaframework with integrated ORM.
 
 ## Building parts
 * [Vite](https://vite.dev). The build tool for the Web and the culprit of the metaframework revolution and lots of other crazy things.
