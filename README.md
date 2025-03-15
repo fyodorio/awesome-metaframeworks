@@ -51,6 +51,8 @@ A curated list of awesome resources related to software development with metafra
 * [Waku](https://waku.gg). Minimalist RSC-focused React framework.
 * [Refine](https://refine.dev). Opinionated React framework focused on building backoffice applications.
 * [Ruck](https://ruck.tech). Buildless React web application framework for Deno.
+* [FullSoak](https://github.com/fullsoak/fullsoak). SSR-first & SSR-optimized buildless Deno-native framework.
+* [UmiJS](https://umijs.org/en-US). Extensible enterprise-level front-end application framework with MPA mode support.
 
 ## Meta-metaframeworks
 * [Blitz](https://blitzjs.com/). Battle-tested libraries and conventions for shipping and scaling world wide Next.js-based applications.
