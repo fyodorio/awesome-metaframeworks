@@ -92,12 +92,12 @@ A curated list of awesome resources related to software development with metafra
 * [Ryan Carniato](https://github.com/ryansolid). The SolidStart guy.
 * [Brandon Roberts](https://github.com/brandonroberts). The Analog guy.
 * [Rich Harris](https://github.com/Rich-Harris). The SvelteKit guy.
-* [Ben Holmes](https://github.com/bholmesdev). The Astro guy.
+* [Matt Kane](https://github.com/ascorbic). The Astro guy.
 * [Ryan Florence](https://github.com/ryanflorence). The Remix guy.
 * [Lee Robinson](https://github.com/leerob). The Next.js guy.
 * [Tanner Linsley](https://github.com/tannerlinsley). The TanStack Start guy.
-* [Tom Preston-Werner](https://github.com/mojombo). The RedwoodJS guy.
 * [Daniel Roe](https://github.com/danielroe). The Nuxt guy.
+* [Peter Pistorius](https://github.com/peterp). The Redwood(SDK/JS) guy.
 
 ## Comparisons and benchmarks
 * [Comparison of metaframeworks](https://metaframe.works/comparison/). Opinionated but insightful comparison table from Metaframeworks Weekly.
@@ -117,6 +117,7 @@ A curated list of awesome resources related to software development with metafra
 * [The Rise (and Fall) and Rise Again of HTML Frameworks](https://www.spicyweb.dev/html-modules-history/). The good people Jared White has opinions and insights to think about. Not necessarily a "con" but a good perspective in general.
 * [Over-Architecting in Web Design](https://dev.to/manufosela/on-architecture-in-web-design-367n). Seasoned web developer Mánu Fosela on important issues with metaframeworks and business incentives behind them.
 * [You don't need Next.js](https://www.comfydeploy.com/blog/you-dont-need-nextjs). The good case study on migration away from Next.js to less fancy but more performant approach.
+* [Plain Vanilla](https://plainvanillaweb.com/index.html). Explanation of some decent native alternatives to commonly used frameworks, libraries, and tools.
 
 ## Security for metaframeworks
 * [Arcjet](https://arcjet.com). SaC (security as code) toolset for modern [meta]frameworks.
