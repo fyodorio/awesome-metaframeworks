@@ -19,6 +19,7 @@ A curated list of awesome resources related to software development with metafra
 * [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
 * [Live streams](#live-streams)
+* [Social media](#social-media)
 
 ## Metaframeworks
 * [Next.js](https://nextjs.org). React-based framework for building full-stack web applications.
@@ -139,6 +140,7 @@ A curated list of awesome resources related to software development with metafra
 * [weeklyfoo](https://weeklyfoo.com). More generic weekly webdev news with frequent mentions of articles and tools related to metaframeworks.
 
 ## Podcasts
+* [Weekly Dev's Brew](https://www.weeklybrew.dev/podcast). Thoughtful and non-boring discussions about everything and web dev.
 * [ConTejas Code](https://tej.as/podcast). The metaframeworks people are often guests here. For patient listeners.
 * [PodRocket](https://podrocket.logrocket.com). The metaframeworks people are often guests here. For listeners with short attention spans.
 * [JS Party](https://changelog.com/jsparty). A weekly celebration of JavaScript and the web — and the metaframeworks sometimes.
@@ -149,3 +151,6 @@ A curated list of awesome resources related to software development with metafra
 * [2 Full 2 Stack](https://www.youtube.com/playlist?list=PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk). Great live coding content, by Nick Taylor, metaframeworks and their authors invited.
 * [CodeTV](https://www.youtube.com/@codetv-dev/streams). AKA "Learn With Jason", by Jason Lengstorf, featuring metaframework topics and people sometimes.
 * [Ryan Carniato](https://www.youtube.com/@ryansolid/streams). Long thoughtful streams from the SolidStart author featuring interesting guests and controversial topic from time to time.
+
+## Social media
+* [Metaframeworks Weekly's Bluesky feed](https://bsky.app/profile/did:plc:7vyxybjsqatduo4xbldbf2cu/feed/aaan4pa65r5ke). A dedicate Bluesky corner for metaframeworks-related insights from different people and vendors.
