@@ -135,7 +135,7 @@ A curated list of awesome resources related to software development with metafra
 * [4m00se](https://github.com/stellar-dapps/4m00se-dapp). SevelteKit-based form builder dapp on Rust-powered infrastructure with embeddable widget generation.
 
 ## Newsletters
-* [Metaframeworks Weekly](https://metaframe.works). A dedicated weekly newsletter with metaframeworks ecosystem news and insights.
+* [Metaframeworks Records](https://metaframe.works). A dedicated weekly newsletter with metaframeworks ecosystem news and insights.
 * [Bytes](https://bytes.dev). A good ol' weekly JavaScript ecosystem news source with lots of metaframeworks news included.
 * [weeklyfoo](https://weeklyfoo.com). More generic weekly webdev news with frequent mentions of articles and tools related to metaframeworks.
 
@@ -153,4 +153,4 @@ A curated list of awesome resources related to software development with metafra
 * [Ryan Carniato](https://www.youtube.com/@ryansolid/streams). Long thoughtful streams from the SolidStart author featuring interesting guests and controversial topic from time to time.
 
 ## Social media
-* [Metaframeworks Weekly's Bluesky feed](https://bsky.app/profile/did:plc:7vyxybjsqatduo4xbldbf2cu/feed/aaan4pa65r5ke). A dedicate Bluesky corner for metaframeworks-related insights from different people and vendors.
+* [Metaframeworks Records' Bluesky feed](https://bsky.app/profile/did:plc:7vyxybjsqatduo4xbldbf2cu/feed/aaan4pa65r5ke). A dedicate Bluesky corner for metaframeworks-related insights from different people and vendors.
