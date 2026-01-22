@@ -113,6 +113,7 @@ A curated list of awesome resources related to software development with metafra
 * [Understanding JavaScript Meta-Frameworks: Redefining Modern Web Development](https://configr.medium.com/understanding-javascript-meta-frameworks-redefining-modern-web-development-c8f6b10f0c67). Thoughtful overview of the reasoning behind metaframeworks, future trends, and benefits.
 
 ## Metaframework CONs
+* [Anti-frameworkism: Choosing native web APIs over frameworks](https://blog.logrocket.com/anti-frameworkism-native-web-apis). Thoughtful alternative to de-facto standards.
 * [Web Development Is Getting Too Complex, And It May Be Our Fault](https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/). The title says it all.
 * [Digging the actual Next.js source code: A nightmare](https://blog.activeno.de/nextjs-sourcecode-nightmare). Clickbaity title with lots of food for thoughts inside.
 * [The Rise (and Fall) and Rise Again of HTML Frameworks](https://www.spicyweb.dev/html-modules-history/). The good people Jared White has opinions and insights to think about. Not necessarily a "con" but a good perspective in general.
