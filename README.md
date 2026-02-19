@@ -54,6 +54,8 @@ A curated list of awesome resources related to software development with metafra
 * [Ruck](https://ruck.tech). Buildless React web application framework for Deno.
 * [FullSoak](https://github.com/fullsoak/fullsoak). SSR-first & SSR-optimized buildless Deno-native framework.
 * [UmiJS](https://umijs.org/en-US). Extensible enterprise-level front-end application framework with MPA mode support.
+* [Wasp](https://wasp.sh). Rails-like framework for React/Node/Prisma.
+* [Shovel](https://shovel.js.org). Service Workers as web applications.
 
 ## Meta-metaframeworks
 * [Blitz](https://blitzjs.com/). Battle-tested libraries and conventions for shipping and scaling world wide Next.js-based applications.
@@ -133,7 +135,6 @@ A curated list of awesome resources related to software development with metafra
 ## OSS examples built with metaframeworks
 * [Real-world open-source projects built with Next.js 14 and App Router](https://aryabov.com/blog/real-world-open-source-projects-built-with-nextjs-14-and-app-router). A good way to take a deeper look at how them clever guys do that.
 * [Open TLC](https://github.com/KlinsBt/open-translation-client). SvelteKit-based CAT-Tool for everyone.
-* [4m00se](https://github.com/stellar-dapps/4m00se-dapp). SevelteKit-based form builder dapp on Rust-powered infrastructure with embeddable widget generation.
 
 ## Newsletters
 * [Metaframeworks Records](https://metaframe.works). A dedicated weekly newsletter with metaframeworks ecosystem news and insights.
