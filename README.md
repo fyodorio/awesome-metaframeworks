@@ -20,6 +20,7 @@ A curated list of awesome resources related to software development with metafra
 * [Podcasts](#podcasts)
 * [Live streams](#live-streams)
 * [Social media](#social-media)
+* [Books](#books)
 
 ## Metaframeworks
 * [Next.js](https://nextjs.org). React-based framework for building full-stack web applications.
@@ -156,3 +157,6 @@ A curated list of awesome resources related to software development with metafra
 
 ## Social media
 * [Metaframeworks Records' Bluesky feed](https://bsky.app/profile/did:plc:7vyxybjsqatduo4xbldbf2cu/feed/aaan4pa65r5ke). A dedicate Bluesky corner for metaframeworks-related insights from different people and vendors.
+
+## Books
+* [JavaScript patterns](https://www.patterns.dev/book/). Great book with meaningful insights including some metaframeworks-related topics.
