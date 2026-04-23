@@ -7,7 +7,6 @@ A curated list of awesome resources related to software development with metafra
 * [Metaframework-like tools](#metaframework-like-tools)
 * [Meta-metaframeworks](#meta-metaframeworks)
 * [Building parts](#building-parts)
-* [AI tools](#ai-tools)
 * [Auxiliary tools](#auxiliary-tools)
 * [Metaframework heroes](#metaframework-heroes)
 * [Comparisons and benchmarks](#comparisons-and-benchmarks)
@@ -32,7 +31,7 @@ A curated list of awesome resources related to software development with metafra
 * [TanStack Start](https://tanstack.com/start/latest). Full-stack React framework powered by TanStack Router.
 * [Analog](https://analogjs.org). The fullstack Angular metaframework.
 * [Qwik City](https://qwik.dev/docs/qwikcity/). Qwik-based set of tooling for building extremely performant full-stack applications.
-* [RedwoodJS](https://redwoodjs.com). Batteries-included React- and RSC-based full-stack web framework for startups.
+* [RedwoodSDK](https://rwsdk.com). Server-first React metaframework running laser-focused on the Cloudflare platform.
 * [Fresh](https://fresh.deno.dev). Deno-based full-stack web framework using Preact for server-rendered components.
 * [Enhance](https://enhance.dev). HTML-first full-stack web framework focused on web components and progressive enhancement.
 * [Astro](https://astro.build). The all-in-one web framework for content-driven websites with multi-framework components approach.
@@ -43,7 +42,7 @@ A curated list of awesome resources related to software development with metafra
 * [Bâti](https://batijs.dev). Vike-driven batteries-including scaffolder tool.
 * [Brisa](https://brisa.build). Bun-based full-stack web framework with progressive enhancement and web components philosophy.
 * [Gatsby](https://www.gatsbyjs.com). React-based full-stack web framework in love with GraphQL.
-* [11ty](https://www.11ty.dev). JAMstack swiss-army knife that had overgrown static websites.
+* [11ty / Build Awesome](https://www.11ty.dev). JAMstack swiss-army knife that had overgrown static websites.
 * [Docusaurus](https://docusaurus.io). Documentation-websites focused web framework with React under the hood.
 * [VitePress](https://vitepress.dev). Simple but powerful static site generator based on Vue.
 * [Inferno](https://www.infernojs.org). React-compatible client-side and server-side rendering library with corresponding toolset included.
@@ -74,15 +73,7 @@ A curated list of awesome resources related to software development with metafra
 * [Zod](https://zod.dev). Popular library for TypeScript-first schema validation with static type inference.
 * [UnJS](https://unjs.io). Whole lotta things to build modern web applications.
 * [Tailwind CSS](https://tailwindcss.com). A utility-first CSS framework loved by full-stack developers all over the world.
-* [Supabase](https://supabase.com). Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings for your full-stack apps.
 * [JSX](https://facebook.github.io/jsx/). XML-like syntax extension to ECMAScript used by multiple frameworks and metaframeworks.
-
-## AI tools
-* [Bolt](https://bolt.new). StackBlitz-powered AI platform for prompt-based building, running, editing, and deploying full-stack web apps.
-* [Lovable](https://lovable.dev/). Your superhuman full stack AI engineer.
-* [v0](https://v0.dev). Next.js-, Tailwind-, and shadcn/ui-based AI app and component builder.
-* [svelte0](https://svelte0.dev). v0 but with Svelte instead of React.
-* [IDX](https://idx.dev). Googles full-stack AI builder not limited to web.
 
 ## Auxiliary tools
 * [StackBlitz](https://stackblitz.com). A platform for building full-stack applications online.
@@ -96,9 +87,9 @@ A curated list of awesome resources related to software development with metafra
 * [Ryan Carniato](https://github.com/ryansolid). The SolidStart guy.
 * [Brandon Roberts](https://github.com/brandonroberts). The Analog guy.
 * [Rich Harris](https://github.com/Rich-Harris). The SvelteKit guy.
-* [Matt Kane](https://github.com/ascorbic). The Astro guy.
+* [Fred Schott](https://github.com/fredkschott). The Astro guy.
 * [Ryan Florence](https://github.com/ryanflorence). The Remix guy.
-* [Lee Robinson](https://github.com/leerob). The Next.js guy.
+* [Tim Neutkens](https://github.com/timneutkens). The Next.js guy.
 * [Tanner Linsley](https://github.com/tannerlinsley). The TanStack Start guy.
 * [Daniel Roe](https://github.com/danielroe). The Nuxt guy.
 * [Peter Pistorius](https://github.com/peterp). The Redwood(SDK/JS) guy.
@@ -114,6 +105,7 @@ A curated list of awesome resources related to software development with metafra
 * [Sending My Respect to Next.js (and Vercel)](https://frontendmasters.com/blog/respect-to-next-js-and-vercel/). A praise from Marc Grabanski, big vanilla-JS proponent.
 * [IndieHackerStacks](https://indiehackerstacks.com). See what indie hackers use to build their products. Metaframeworks all around.
 * [Understanding JavaScript Meta-Frameworks: Redefining Modern Web Development](https://configr.medium.com/understanding-javascript-meta-frameworks-redefining-modern-web-development-c8f6b10f0c67). Thoughtful overview of the reasoning behind metaframeworks, future trends, and benefits.
+* [What Is a Metaframework](https://metaframe.works/blog/what-is-a-metaframework/). Overview of what meraframeworks are, what they consist of, and what are their main PROs (as well as multiple CONs).
 
 ## Metaframework CONs
 * [Anti-frameworkism: Choosing native web APIs over frameworks](https://blog.logrocket.com/anti-frameworkism-native-web-apis). Thoughtful alternative to de-facto standards.
