@@ -115,6 +115,7 @@ A curated list of awesome resources related to software development with metafra
 * [Over-Architecting in Web Design](https://dev.to/manufosela/on-architecture-in-web-design-367n). Seasoned web developer Mánu Fosela on important issues with metaframeworks and business incentives behind them.
 * [You don't need Next.js](https://www.comfydeploy.com/blog/you-dont-need-nextjs). The good case study on migration away from Next.js to less fancy but more performant approach.
 * [Plain Vanilla](https://plainvanillaweb.com/index.html). Explanation of some decent native alternatives to commonly used frameworks, libraries, and tools.
+* [Just F***ing Use Go!](https://blainsmith.com/articles/just-fucking-use-go/). A couple of thoughts on good ol' back-end-driven full-stack development.
 
 ## Security for metaframeworks
 * [Arcjet](https://arcjet.com). SaC (security as code) toolset for modern [meta]frameworks.
