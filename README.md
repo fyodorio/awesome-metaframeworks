@@ -35,7 +35,8 @@ A curated list of awesome resources related to software development with metafra
 * [Fresh](https://fresh.deno.dev). Deno-based full-stack web framework using Preact for server-rendered components.
 * [Enhance](https://enhance.dev). HTML-first full-stack web framework focused on web components and progressive enhancement.
 * [Astro](https://astro.build). The all-in-one web framework for content-driven websites with multi-framework components approach.
-* [Hono](https://hono.dev). Full-stack framework starting from the server-side with static site generation, client components, and file-based routing.
+* [Hono](https://hono.dev). Full-stack framework starting from the server-side with static site generation, client components, and file-based routing. See also [HonoX](https://github.com/honojs/honox) project.
+* [Pracht](https://pracht.resynapse.dev). Innovative Preact-based AI-built metaframework.
 
 ## Metaframework-like tools
 * [Vike](https://vike.dev). Flexible Vite-based web-app scaffolder framework.
@@ -56,6 +57,7 @@ A curated list of awesome resources related to software development with metafra
 * [UmiJS](https://umijs.org/en-US). Extensible enterprise-level front-end application framework with MPA mode support.
 * [Wasp](https://wasp.sh). Rails-like framework for React/Node/Prisma.
 * [Shovel](https://shovel.js.org). Service Workers as web applications.
+* [Gridmix](https://gridmix.github.io). Vue-based static site generator, revival fork of [Gridsome](https://gridsome.org).
 
 ## Meta-metaframeworks
 * [Blitz](https://blitzjs.com/). Battle-tested libraries and conventions for shipping and scaling world wide Next.js-based applications.
@@ -118,6 +120,7 @@ A curated list of awesome resources related to software development with metafra
 * [Just F***ing Use Go!](https://blainsmith.com/articles/just-fucking-use-go/). A couple of thoughts on good ol' back-end-driven full-stack development.
 
 ## Security for metaframeworks
+* [Top 10 Metaframework Security Risks](https://github.com/fyodorio/mf-top-10). Draft-state OWASP-style practical recommendation for securing metaframework-based websites and web applications.
 * [Arcjet](https://arcjet.com). SaC (security as code) toolset for modern [meta]frameworks.
 * [mit10s](https://mit10s.com). Security platform for metaframework-based websites and web applications.
 
